@@ -7,6 +7,10 @@ Profile photos and biography for interviews and conferences.
 
 ## Previous talks
 
+### 2018
+
+See my [speaking page](https://www.twnsnd.com/speaking.html) on my blog.
+
 ### 2017
 
 * "Living life on the edge – identifying and managing stress, avoiding burn-out"  
