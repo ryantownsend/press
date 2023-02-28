@@ -1,7 +1,7 @@
 # Biography of Ryan Townsend
 
-With over 15 years experience developing for the web, and an undying passion for web performance, Ryan Townsend is the CTO of Shift Commerce – a SaaS e-commerce platform for ambitious retailers.
+With over 15 years experience developing for the web, and over 5 of those years as a hands-on CTO, Ryan Townsend has driven ecommerce growth for his clients measured in the hundreds of millions.
 
-His pragmatic and performance-led outlook means that—on the rare occasion that he does wear a shirt—his sleeves stay firmly rolled up: even as an exec, his favourite place is right there in the thick of things with his team.
+He cares deeply about user experience, particularly web performance, and his pragmatic outlook means that—on the rare occasion that he does wear a shirt—his sleeves stay firmly rolled up: even as an exec, he enjoys getting into the thick of things with his developers.
 
-Outside of the office, you’ll usually find him picking up heavy objects in the gym or falling off his mountain bike down the side of a hill.
+Outside of the office, you’ll usually find him in the gym, recording his weekly tips for ‘[Lessons of a CTO](https://lessonsofacto.com/)’ and trying not to get too many more points on his driving licence.
