@@ -1,6 +1,6 @@
 # Biography of Ryan Townsend
 
-With over 15 years experience developing for the web, and over 5 of those years as a hands-on CTO, Ryan Townsend has driven ecommerce growth for his clients measured in the hundreds of millions.
+With 20 years of experience developing for the web, and over 5 of those years as a hands-on CTO, Ryan Townsend has driven ecommerce growth for his clients measured in the hundreds of millions.
 
 He cares deeply about user experience, particularly web performance, and his pragmatic outlook means that—on the rare occasion that he does wear a shirt—his sleeves stay firmly rolled up: even as an exec, he enjoys getting into the thick of things with his developers.
 
